@@ -10,13 +10,14 @@
 
 ## 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich zum ersten Mal angefangen, einen Code in HTML und CSS zu schreiben für eine Website. Ich habe mir zuerst überlegt über was für ein Thema ich meine Website gestalten möchte und ich habe deshalb ableitend von meinem Hobby die Entscheidung getroffen, dass ich eine Website über die Automarke "BMW" entwerfen möchte. Ich habe bereits alle Titel und Texte vorbereitet und in meine Seite eingefügt. Ebenfalls habe ich schriftarten sowie auch Schriftgrössen angepasst um dem ganzen einen übersichtlicheren Look zu geben.
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Einfügen eines Bildes in meine Website (Banner am Anfang)
+- [ ] Das Bild (Banner) so verschieben, dass es ganz oben und mittiert in meiner Website zu sehen ist.
+- [ ] Passende Bilder zu meinen notierten Themen finden und in meinen Code integrieren
+- [ ] Hintergrundbild für die ganze Website einfügen um einen professionelleren Look zu bekommen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
