@@ -19,6 +19,14 @@ Heute habe ich zum ersten Mal angefangen, einen Code in HTML und CSS zu schreibe
 - [ ] Passende Bilder zu meinen notierten Themen finden und in meinen Code integrieren
 - [ ] Hintergrundbild für die ganze Website einfügen um einen professionelleren Look zu bekommen.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Da ich zuhause auch noch an meinem HTML Projekt gearbeitet, habe ich mich umentschieden mit meinem Projekt und zwar habe ich mich nun dazu entschieden, statt eine Website über BMW zu machen, eine Website über meinen eigenen Instagram zu machen, in welchem ich sozusagen Werbung mache und meine Arbeit teile. Da ich momentan über Instagram immer mehr Anfragen bekomme für meine Videografie, denke ich wäre es eine coole Idee wenn ich meine eigene Website hätte.
+Deshalb habe ich heute vorallem am Hintergrund und dem Design der Website gearbeitet. Ich habe Videos aber auch Hintergrundbilder hinzufügen können und versucht meine Website schöner aussehen zu lassen.
+
+## 07.05.2024
+
+- [ ] Mein Video auf der Seite schön gestalten und grösse anpassen.
+- [ ] Hintergrundbild fixieren
+- [ ] Linktree einfügen
+- [ ] Banner fixieren
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
