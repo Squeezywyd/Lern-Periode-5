@@ -29,4 +29,11 @@ Deshalb habe ich heute vorallem am Hintergrund und dem Design der Website gearbe
 - [ ] Linktree einfügen
 - [ ] Banner fixieren
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich leider nicht an meinem Projekt arbeiten können, da ich am Mittwoch eine Abgabe aller Aufträge und Portfolio im Modul 106 habe. Deshalb habe ich die Zeit im Lern-Atelier noch zusätzlich genutzt um die letzten Aufträge zu machen und mein Portfolio zu überarbeiten. Ich habe mir jedoch vorgenommen noch zuhause an meinem Projekt weiterzuarbeiten, um meine Arbeitspakete ztrotzdem erledigen zu können.
+
+## 14.05.2024
+
+- [ ] Filter auf mein Hintergrund anwenden. (Abdunkeln und Kontrast weniger machen, dass Text mehr present wird)
+- [ ] Grösse und Position von meinem Video anpassen (Center-align und kleiner machen, dass das Video gleich gross ist ca wie Textfeld.)
+- [ ] Mich informieren, wie man eine Titelseite/Openingseite implementieren kann.
+- [ ] Ein Design für meine Titelseite entwerfen und anfangen ein Menü zu implementieren.
