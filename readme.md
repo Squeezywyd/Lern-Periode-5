@@ -33,7 +33,30 @@ Heute habe ich leider nicht an meinem Projekt arbeiten können, da ich am Mittwo
 
 ## 14.05.2024
 
-- [ ] Filter auf mein Hintergrund anwenden. (Abdunkeln und Kontrast weniger machen, dass Text mehr present wird)
-- [ ] Grösse und Position von meinem Video anpassen (Center-align und kleiner machen, dass das Video gleich gross ist ca wie Textfeld.)
+- [x] Filter auf mein Hintergrund anwenden. (Abdunkeln und Kontrast weniger machen, dass Text mehr present wird)
+- [x] Grösse und Position von meinem Video anpassen (Center-align und kleiner machen, dass das Video gleich gross ist ca wie Textfeld.)
 - [ ] Mich informieren, wie man eine Titelseite/Openingseite implementieren kann.
 - [ ] Ein Design für meine Titelseite entwerfen und anfangen ein Menü zu implementieren.
+
+
+Heute habe mich informiert wie man Filter in CSS einfügen kann. Mein Ziel war es, meinen Hintergrund mit Filtern so anzupassen, dass mein Text besser heraussticht und angenehmer zu lesen ist.
+Anschliessend habe ich das selbst probiert, und habe schlussendlich mit dem Filter "Blur" gearbeitet. Mit diesem Filter konnte ich den Hintergrund blurren, so dass der Text viel besser herausstechen konnte.
+Ebenfalls habe ich sehr lange probiert, mein Video anzupassen, so dass es nur noch als kleiner Beitrag unter dem Punkt "Portfolio" zu sehen ist. Jedoch immer wenn ich in meinem CSS Code Änderungen vorgenommen habe, ist nichts passiert. Erst sehr spät ist mir dann aufgegfallen, dass ich mich bei einer verlinkung vertippt habe was dau führte, dass es meine Änderungen nie übernommen hat.
+Somit hatte ich leider keine Zeit mehr für meine 2 restlichen Arbeitspakete.
+
+## 21.05.2024
+
+- [x] Mich informieren, wie man eine Titelseite/Openingseite implementieren kann.
+- [ ] Ein Design für meine Titelseite entwerfen und anfangen ein Menü zu implementieren.
+- [ ] Eine 2. Seite unter der Titelseite einfügen, auf welcher man jeweils auf meine Punkte aus dem Inhaltsverzeichnis geleitet wird.
+- [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
+
+Heute habe ich mich damit beschäftigt, wie ich eine Titelseite gestalten kann für meine Website.
+Zuerst habe ich recherchiert, um herauszufinden wie ich eine solche Titelseite überhaupt gestalten und implementieren kann. Nachdem ich viele Websiten gefunden habe und auch Youtube-Videos dazu geschaut habe, dachte ich, ich würde das nun selbst gerne probieren. Ich habe angefangen mir ein Design für diese Titelseite zu überlegen und habe dies auf Canva designed. Ich habe etwas angefangen, mit dem implementieren, jedoch hatte es noch nicht ganz funktioniert. Ebenfalls war leider schon wieder der ganze Morgen vorbei weshalb ich nicht mehr erledigen konnte.
+
+## 28.05.2024
+
+- [ ] Menü auf meiner Titelseite implementieren.
+- [ ] Eine 2. Seite unter der Titelseite einfügen, auf welcher man jeweils auf meine Punkte aus dem Inhaltsverzeichnis geleitet wird.
+- [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
+- [ ] Designs für die jeweiligen Themen überlegen.
