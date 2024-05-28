@@ -61,6 +61,13 @@ Zuerst habe ich recherchiert, um herauszufinden wie ich eine solche Titelseite �
 - [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
 - [ ] Designs für die jeweiligen Themen überlegen.
 
+Heute konnte ich leider nicht an den Arbeitspaketen arbeiten, da wir den ganzen Morgen die Nachholprüfung aus dem Modul 177 nachschreiben mussten. Deshalb muss ich die selben Arbeitspakete nochmals für nächste Woche übernehmen.
+
 ## 04.06.2024
+
+- [ ] Menü auf meiner Titelseite implementieren.
+- [ ] Eine 2. Seite unter der Titelseite einfügen, auf welcher man jeweils auf meine Punkte aus dem Inhaltsverzeichnis geleitet wird.
+- [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
+- [ ] Designs für die jeweiligen Themen überlegen.
 
 
