@@ -60,3 +60,7 @@ Zuerst habe ich recherchiert, um herauszufinden wie ich eine solche Titelseite �
 - [ ] Eine 2. Seite unter der Titelseite einfügen, auf welcher man jeweils auf meine Punkte aus dem Inhaltsverzeichnis geleitet wird.
 - [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
 - [ ] Designs für die jeweiligen Themen überlegen.
+
+## 04.06.2024
+
+
