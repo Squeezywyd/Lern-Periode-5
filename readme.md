@@ -70,4 +70,13 @@ Heute konnte ich leider nicht an den Arbeitspaketen arbeiten, da wir den ganzen 
 - [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
 - [ ] Designs für die jeweiligen Themen überlegen.
 
+Heute habe ich jeweils für das Modul 122 und auch für das Modul 293 gearbeitet, da ich gewisse Aufträge noch nachzuholen hatte und für mein Projekt arbeiten musste. Deshalb hatte ich keine Zeit um an meinem Projekt im LA zu arbeiten.
+
+## 11.06.2024
+
+- [ ] Menü auf meiner Titelseite implementieren.
+- [ ] Eine 2. Seite unter der Titelseite einfügen, auf welcher man jeweils auf meine Punkte aus dem Inhaltsverzeichnis geleitet wird.
+- [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
+- [ ] Designs für die jeweiligen Themen überlegen.
+
 
