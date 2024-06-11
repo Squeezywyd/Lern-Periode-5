@@ -74,9 +74,22 @@ Heute habe ich jeweils für das Modul 122 und auch für das Modul 293 gearbeitet
 
 ## 11.06.2024
 
-- [ ] Menü auf meiner Titelseite implementieren.
-- [ ] Eine 2. Seite unter der Titelseite einfügen, auf welcher man jeweils auf meine Punkte aus dem Inhaltsverzeichnis geleitet wird.
-- [ ] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
-- [ ] Designs für die jeweiligen Themen überlegen.
+- [x] Menü auf meiner Titelseite implementieren.
+- [x] Eine 2. Seite unter der Titelseite einfügen, auf welcher man jeweils auf meine Punkte aus dem Inhaltsverzeichnis geleitet wird.
+- [x] Jeweils eine neue Seite für jeden Punkt aus dem Inhaltsverzeichnis erstellen.
+- [x] Designs für die jeweiligen Themen überlegen.
+
+Heute konnte ich sehr gut arbeiten. Ich habe mich dazu entschieden mein Projekt von vorne zu beginnen, da ich komplett andere Ideen für meine Website hatte. Ich habe alte Dinge aus meinem Projekt also genommen und in das neue Projekt kopiert. Ich schreibe immernoch eine Website über mich selbst und meine Leidenschaft um diese zu bewerben, jedoch in einem ganz anderen Style und Look. Ich habe also das meiste komplett umgeschrieben. Ich habe zuerst eine Titelseite für meine Website implementiert. In meiner Titelseite habe ich ein Menü im Banner erstellt, welches verknüpfte Links auf weitere HTML-Seiten sind welche ich ebenfalls implementiert habe. Ich habe ein Hintergrundbild eingefügt und ich habe hover Effekte über den möglichen Buttons hinzugefügt. Ich habe nun verschiedene Themen auf meiner Website und kann diese alle abrufen und hin und her wechseln. Ich bin sehr zufrieden mit meiner Arbeit heute, da ich einen riesigen Fortschritt gemacht habe und ich mich sehr darauf freue weiter an meinem Projekt weiterarbeiten zu können.
+
+
+## 18.06.2024
+
+- [ ] Meine neuen Seiten mit neuen Bildern und mehr Text gestalten
+- [ ] Die neuen Seiten mit CSS verschönern
+- [ ] Auf der "Kontakt" Seite ein Formular erstellen.
+- [ ] Button von Titelseite mit Kontakt-Seite verlinken.
+
+
+
 
 
