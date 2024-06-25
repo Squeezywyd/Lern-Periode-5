@@ -84,10 +84,21 @@ Heute konnte ich sehr gut arbeiten. Ich habe mich dazu entschieden mein Projekt 
 
 ## 18.06.2024
 
-- [ ] Meine neuen Seiten mit neuen Bildern und mehr Text gestalten
-- [ ] Die neuen Seiten mit CSS verschönern
-- [ ] Auf der "Kontakt" Seite ein Formular erstellen.
-- [ ] Button von Titelseite mit Kontakt-Seite verlinken.
+- [x] Meine neuen Seiten mit neuen Bildern und mehr Text gestalten
+- [x] Die neuen Seiten mit CSS verschönern
+- [x] Auf der "Kontakt" Seite ein Formular erstellen.
+- [x] Button von Titelseite mit Kontakt-Seite verlinken.
+
+Heute konnte ich sehr gut und effektiv an meinem Projekt arbeiten und konnte erfolgreich alle Arbeitspakete erfüllen.
+
+
+
+## 25.06.2024
+
+- [ ] Über mich Seite fertig gestalten.
+- [ ] Preislisten einfügen
+- [ ] Kontaktformular verschönern
+- [ ] Proejkte (Videos) einfügen
 
 
 
