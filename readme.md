@@ -95,10 +95,12 @@ Heute konnte ich sehr gut und effektiv an meinem Projekt arbeiten und konnte erf
 
 ## 25.06.2024
 
-- [ ] Über mich Seite fertig gestalten.
-- [ ] Preislisten einfügen
-- [ ] Kontaktformular verschönern
-- [ ] Proejkte (Videos) einfügen
+- [x] Über mich Seite fertig gestalten.
+- [x] Preislisten einfügen
+- [x] Kontaktformular verschönern
+- [x] Proejkte (Videos) einfügen
+
+Heute war das letzte Mal und ich konnte alles rechtzeitig fertig bringen.
 
 
 
