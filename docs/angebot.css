@@ -1,0 +1,21 @@
+.preisliste-container {
+    background-color: rgba(236, 228, 239, 0.502);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 50px auto;
+}
+.preisliste {
+    list-style-type: none;
+    padding: 0;
+}
+.preisliste li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+.preisliste li:last-child {
+    border-bottom: none;
+}
+.preisliste h2 {
+    margin-top: 0;
+}

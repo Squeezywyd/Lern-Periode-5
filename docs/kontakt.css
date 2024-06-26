@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+}
+
+.contact {
+    margin-bottom: 5%;
+}
+
+label {
+    color: white;
+
+}
+
+input {
+    background-color: rgba(255, 255, 255, 0.066);
+    border: 2px solid white;
+    border-radius: 3px ;
+    color: white;
+
+}
+main {
+    text-align: center;
+    border: 1px solid transparent;
+    padding: 20px;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+}
+textarea {
+    background-size: 100;
+    background-color: rgba(255, 255, 255, 0.066);
+    border-radius: 6px ;
+    border: 2px solid white;
+    outline: none;
+    color: white;
+}
+
+.absenden {
+    color: white;
+    background-color: black;
+
+}
